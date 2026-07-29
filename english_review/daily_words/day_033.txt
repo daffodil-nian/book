@@ -1,0 +1,100 @@
+﻿unanimous	adj. （全体）一致的
+quiver	v. （轻微地）颤动
+perch	n. （禽鸟的）栖木
+span	n. （桥墩间的）墩距
+pier	n. 码头；（桥）墩
+frock	n. （女）连衣裙
+flutter	v. （鸟）振翼；飘动
+resume	n. （谋职者的）个人简历
+clown	n. （马戏的）小丑，丑角
+pace	v. 踱步
+lounge	n. （旅馆等的）休息室
+pope	n. （罗马天主教的）教皇
+axle	n. （轮）轴，车轴，心棒
+measurement	n. （量得的）尺寸，大小
+realization	n. （理想等的）实现
+chord	n. 和弦
+pyjamas	n. （宽大的）睡衣裤
+elegant	adj. （举止、服饰等）雅致的
+hard	adj. （酒）烈性的
+refreshment	n. （精力的）恢复，爽快
+ticket	n. （交通违章）罚款传票
+gesture	v. （讲话时等）做手势
+situation	n. （建筑物等的）位置
+software	n. （计算机的）软件
+bishop	n. （基督教的）主教
+insert	v. 插入，放进
+kernel	n. （果实的）核；谷粒
+wisdom	n. 智慧
+growl	v. （狗等）嗥叫；咆哮
+shaft	n. （工具的）柄，杆状物
+buzz	v. （蜂等）嗡嗡叫
+breed	n. （动物）品种
+ear	n. （稻麦等的）穗
+dean	n. （大学）院长，系主任
+fertile	adj. （创造力）丰富的
+sink	n. （厨房内的）洗涤槽
+versus	prep. （比赛等中）对
+ranch	n. （北美洲的）大牧场
+grope	v. （暗中）摸索，探索
+pedlar	n. （挨户兜售的）小贩
+rally	v. 集合
+squat	v. （使）蹲下
+fling	v. （用力）扔，抛
+scrub	v. 擦洗，擦净 n. 擦洗
+tread	v. 踩，踏，践踏
+crack	v. 发出爆裂声
+slander	n. 诽谤，诋毁 v. 诽谤，诋毁
+escort	v. 护卫，护送 n. 护卫者，护送车辆
+swell	v. 使膨胀；隆起
+menace	n. 威胁 v. （进行）威胁
+tramp	v. 以沉重的脚步走（过） n. 跋涉
+trample	v. 践踏，蹂躏 n. 践踏，蹂躏
+suicide	n. 自杀 v. 自杀
+tighten	v. （使）变紧
+jingle	v. （使）丁当响
+fret	v. （使）烦恼
+thrill	v. （使）激动
+deflect	v. （使）偏斜
+tilt	v. （使）倾斜
+revolve	v. （使）旋转
+rotate	v. （使）旋转
+compensate	v. 补偿，赔偿
+default	n. 不履行义务 v. 不履行义务
+infer	v. 推断
+repay	v. 偿还；报答
+scoff	v. 嘲笑，嘲弄
+hoe	v. 锄地
+retort	v. 反击；反驳
+broaden	v. 放宽，变阔
+decompose	v. 腐败；分解
+chorus	v. 合唱，齐声说
+supervise	v. 监督，监视
+beware	v. 谨防，当心
+grab	v. 攫取，抓取
+entreat	v. 恳求
+concentrate	v. 浓缩，提浓
+urge	v. 强烈希望
+riot	n. 骚乱，暴乱 v. 发动骚乱
+shrug	v. 耸（肩） n. 耸肩
+revive	v. 苏醒；复兴
+terminate	v. 停止，终止
+solidify	v. 凝固
+dazzle	v. 使目眩；使倾倒
+transplant	v. 移植（器官、皮肤等）；移植，移种（植物）
+xerox	v. 用静电复印
+peck	v. 啄，啄起
+trot	v. （马）小跑 n. （马）小跑；慢跑
+ridicule	v. 嘲弄，挖苦 n. 嘲弄，挖苦
+chatter	v. 喋喋不休 n. 喋喋不休
+sneer	v. 冷笑；嘲笑 n. 冷笑；嘲笑
+boycott	v. 联合抵制 n. 抵制行动，受抵制时期
+plunder	v. 掠夺，劫掠 n. 掠夺，抢劫
+endeavor	v. 努力，尽力 n. 努力，尝试
+scramble	v. 爬行，攀登 n. 爬行，攀登
+flap	v. 拍打 n. 拍打，拍动
+slaughter	v. 屠杀；屠宰 n. 屠杀；屠宰
+tow	v. 拖引，牵引 n. 拖引，牵引
+credit	v. 相信，信任 n. 相信，信任
+clockwise	adv. 顺时针方向转地 adj. 顺时针方向转的
+headlong	adv. 头向前地 adj. 头向前的

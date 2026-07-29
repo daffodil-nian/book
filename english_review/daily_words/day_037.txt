@@ -1,0 +1,100 @@
+﻿decay	vi. 腐烂，衰败 n. 腐烂， 衰败状态
+grieve	vi. 感到悲痛，伤心 vt. 使伤心， 为…而伤心
+absorb	vt. 吸收； 吸引…的注意， 使全神贯注； 把…并入， 同化
+concern	n. 关切的事，有关的事；关心，挂念；关系，关联；公司，企业 vt. 涉及， 有关； 使关心， 使担心
+fracture	v. 断裂，折断 n. 裂缝， 裂痕； 折断
+rectify	vt. 纠正， 修复
+integrity	n. 正直， 诚实， 诚恳； 完整， 完全， 完善
+refrain	vi. 抑制，克制，戒除 n. 叠句， 副歌
+pact	n. 契约， 协定， 条约
+notation	n. 记号， 标记法
+merge	v. 结合， 合并， 合为一体
+liable	adj. 易于…的， 可能的
+recycle	vt. 回收利用
+dock	vi. 靠码头， 进港 n. 码头，船埠；被告席 vt. 使靠码头；扣
+marsh	n. 沼泽， 湿地
+element	n. 成分， 要素， 元素； 基础， 纲要； 自然力
+confidential	adj. 秘密的， 机密的； 表示信任的； 担任机密工作的
+abundant	adj. 丰富的， 富裕的； 大量的， 充足的
+exclaim	vi. 呼喊， 惊叫
+ballet	n. 芭蕾舞， 芭蕾舞剧； 芭蕾舞团
+mute	adj. 缄默的，无声的；哑的，不会说话的；不发音的 vt. 消除， 减轻
+courtesy	n. 谦恭有礼； 有礼貌的举止
+deteriorate	vi. 恶化， 变坏
+warehouse	n. 仓库， 货栈
+recognize	vt. 认出， 识别； 承认， 确认， 认可； 赏识， 表彰， 报偿
+restraint	n. 抑制， 限制， 克制； 约束措施， 约束条件
+pollutant	n. 污染物质
+bamboo	n. 竹， 竹子
+input	n. 输入；投入的资金，输入的数据 vt. 把…输入计算机
+induce	vt. 引导， 劝； 引起， 导致
+abnormal	adj. 反常的， 异常的
+shrewd	adj. 机灵的， 敏锐的， 精明的
+stereotype	n. 陈规，老套，固定的模式 vt. 对…形成固定看法
+molecule	n. 分子
+enroll	vi. 入学，加入 vt. 招收， 吸收
+resign	vi. 辞职；听任 vt. 辞去， 放弃； 使顺从
+safeguard	vt. 保护，维护 n. 预防措施； 保证条款
+diligent	adj. 勤勉的， 勤奋的
+sophisticated	adj. 老于世故的； 高级的； 精密的， 复杂的； 高雅的
+entertainment	n. 娱乐， 文娱节目， 表演会； 招待， 款待， 请客
+reside	vi. 居住， 定居； 存在， 在于
+indicative	adj. 标示的，指示的，象征的；陈述的 n. 【语】陈述语气
+ward	n. 病房； 区； 受监护人
+dread	vt. 担忧，忧虑；惧怕 n. 担忧， 畏惧
+scrutiny	n. 详细检查， 仔细观察
+chase	n&vt. 追逐， 追赶， 追求
+accident	n. 意外， 事故
+promote	vt. 促进， 增进， 发扬； 提升； 宣传， 推销
+routine	adj. 例行的， 常规的 n. 例行公事，惯例，惯常的程序
+attack	n&vt. 攻击， 进攻； 突然发作
+divorce	n. 离婚，离异 vt. 离婚； 分离， 脱离
+tariff	n. 关税， 税率； 价目表， 收费表
+attach	vt. 缚， 系， 贴， 附加； 使依恋， 使喜爱； 使附属； 认为有
+graphic	adj. 生动的， 形象的； 绘画的， 文字的， 图表的
+convict	vt. 证明…有罪，宣判…有罪['kɒnvɪkt] n. 囚犯
+retention	n. 保留， 保持
+creation	n. 创造， 创建； 创造的作品， 产物； 宇宙， 天地万物
+legislation	n. 法律， 法规； 立法， 法律的制定
+dodge	vi. 闪身躲开 vt. 回避，逃避 n. 托辞， 伎俩； 躲闪， 躲避
+ingredient	n. 组成部分， 原料； 要素
+surplus	adj. 过剩的， 多余的 n. 过剩，剩余，盈余
+consolidate	v. 巩固， 加强； 联为一体， 合并
+correspondence	n. 信件， 函件； 通信， 通信联系； 符合， 一致， 相似
+inhibit	vt. 阻止， 妨碍， 抑制
+refresh	v. 振作精神， 恢复活力
+intimate	adj. 亲密的，个人的 n. 至交， 密友 vt. 暗示， 提示
+shove	vi. 用力推，挤 vt. 乱推，挤；乱塞，随意放 n. 猛推
+theft	n. 偷窃， 失窃
+disclose	vt. 揭露， 泄露， 透露
+religion	n. 宗教， 宗教信仰
+yacht	n. 快艇， 帆船， 游艇
+mistress	n. 情妇； 主妇， 女主人
+oxide	n. 氧化物
+miniature	adj. 小型的，微小的 n. 微小的模型， 缩影； 微型画， 微型人物像
+clan	n. 宗族， 家族
+economical	adj. 节约的； 经济学的
+prosperous	adj. 繁荣的， 兴旺的
+polish	vt. 磨光；修改，润色，使优美 n. 擦光剂
+reassess	vt. 再评价
+cabinet	n. 橱， 柜； 内阁
+optical	adj. 眼的， 视觉的； 光学的
+evoke	vt. 唤起， 引起， 使人想起
+insurance	n. 保险； 保险费
+dazzle	vt. 使眩目，耀；使赞叹不已；使倾倒 n. 耀眼的光； 令人赞叹的东西
+principle	n. 原则， 原理， 道义； 基本信念， 信条
+thigh	n. 大腿
+tedious	adj. 冗长乏味的， 沉闷的
+tilt	v. 倾斜，倾侧 n. 倾斜， 倾侧
+inferiority	n. 自卑； 次等
+participant	n. 参加者， 参与者
+initiate	vt. 开始， 创造， 发起； 使初步了解； 接纳， 让…加入 n. 新加入组织的人
+domestic	adj. 本国的； 家庭的； 驯养的
+glare	vi. 怒目而视；发射强光，发出刺眼的光线 n. 强光； 怒视， 瞪眼； 炫耀， 张扬
+irrigation	n. 灌溉
+compile	vt. 汇编； 编制， 编纂
+vitality	n. 活力； 生机， 元气
+locomotive	n. 机车
+tile	n. 瓦，瓷砖 vt. 铺瓦于， 贴瓷砖于
+donation	n. 捐款， 捐赠物； 捐赠， 赠送
+immense	adj. 广大的， 巨大的； 无限的

@@ -1,0 +1,100 @@
+﻿flask	n. 长颈瓶， 酒瓶， 烧瓶
+accuse	vt. 指责， 归咎于
+disturbance	n. 扰乱， 打扰； 骚乱， 混乱； 心神不安， 烦恼
+visceral	adj. 内脏的， 腑脏的； 出自内心的， 发自肺腑的
+simultaneous	adj. 同时发生的， 同时存在的； 同步的， 一齐的
+instructional	adj. 指导的， 教育的
+guarantee	n. 保证，担保物 vt. 保证， 担保
+odor	n. 气味
+predecessor	n. 前任， 前辈； 原有事物， 前身
+acquire	vt. 取得， 获得； 学到
+literal	adj. 照字面的， 原义的； 逐字的
+notion	n. 概念， 观念； 意图， 想法， 念头
+default	v. 不履行义务， 拖欠 n. 违约，拖欠；弃权；预设，缺省
+arc	n. 弧形； 弧； 电弧， 弧光
+beverage	n. 饮料
+captive	adj. 被俘虏的，被捕获的 n. 俘虏
+insane	adj. 极蠢的， 荒唐的； 精神病的， 精神失常的， 疯狂的
+attribute	vt. 把…归因于 n. 属性
+cemetery	n. 墓地， 公墓
+genetic	adj. 遗传的 n. [-s]遗传学
+stitch	v. 缝， 绣 n. 一针，线迹；缝法，针法，编结法；突然剧痛
+triumph	vi. 成功 n. 凯旋，胜利
+vice	n. 罪恶， 恶习， 缺点； 虎钳
+detection	n. 察觉， 发觉； 侦查， 探测
+bowel	n. 肠； 内部， 深处
+arouse	vt. 引起； 唤起， 唤醒
+optimum	adj. 最合适的， 最优的， 最佳的
+suppress	vt. 压制， 镇压； 禁止发表， 查禁； 抑制， 忍住； 阻止…的生长
+pudding	n. 布丁
+wrinkle	v. 起皱纹 n. 皱纹
+consensus	n. 一致， 一致同意
+boring	adj. 令人厌烦的， 乏味的， 无聊的
+classic	adj. 最优秀的，典型的，标准的；传统式样的，典雅的 n. 文学名著，经典作品，杰作；优秀的典范；
+supervise	v. 监督， 管理， 指导
+gossip	vi. 传播流言蜚语 n. 流言蜚语；爱说长道短的人
+describe	vt. 形容， 描写； 画出
+dilemma	n. 窘境， 困境
+engagement	n. 订婚， 婚约； 约会
+wealthy	adj. 富的， 富裕的
+slum	n. 贫民窟
+foam	vi. 起泡沫， 吐白沫 n. 泡沫；泡沫材料，泡沫状物
+disregard	vt. 不理会，漠视 n. 忽视， 漠视
+administration	n. 管理； 管理部门， 行政机关； 实行， 执行
+occasional	adj. 偶尔的， 间或发生的
+dwell	vi. 居住
+incorporate	vt. 包含； 加上， 吸收； 把…合并， 使并入
+debate	n&v. 争论， 辩论
+extinguish	vt. 熄灭， 扑灭； 使消亡， 使破灭
+vulnerable	adj. 易受伤的， 脆弱的； 易受攻击的， 难防御的
+furniture	n. 家具
+segment	n. 部分， 片段； 瓣
+counterpart	n. 与对方地位相当的人， 与另一方作用相当的物
+preach	vi. 布道， 说教 vt. 宣讲，布道；竭力鼓吹，宣传
+flank	n. 肋，肋腹，侧边；侧翼 vt. 位于…的侧面
+donate	vt. 捐赠， 赠送
+pendulum	n. 摆， 钟摆； 摇摆不定的事态
+defiance	n. 违抗； 藐视
+sovereign	adj. 拥有最高统治权的， 至高无上的； 具有独立主权的 n. 君主，元首
+cater	vi. 满足需要， 迎合； 提供饮食及服务， 承办酒席
+attractive	adj. 有吸引力的， 引起注意的
+significant	adj. 相当数量的； 重要的， 意义重大的， 意味深长的
+duplicate	adj. 完全一样的， 复制的 n. 完全一样的东西，复制品 vt. 复制， 复印； 重复
+bleed	vi. 出血，流血；泌脂 vt. 勒索…的钱
+rein	n. 缰绳 vt. 勒缰使停步； 控制， 约束
+decrease	v. 减少 n. [dI'kriːs]
+flutter	vi. 振翼，拍翅而飞；飘动，飘扬；快速跳动 n. 紧张， 激动不安
+volunteer	v. 自愿； 自愿提供； 志愿 n. 志愿者；志愿兵
+overlap	v. 部分重叠； 部分相同 n. 重叠， 重叠的部分
+materialism	n. 唯物主义
+installment	n. 分期付款， 分期交付； 部分
+mourn	v. 哀悼； 感到痛心
+cane	n. 手杖； 茎
+trifle	vi. 嘲笑； 轻视 n. 琐事，小事，无价值的东西
+migrate	vi. 迁徙， 移栖； 移居， 迁移
+Easter	n. 复活节
+submit	vi. 屈从， 听从； 忍受； 甘心 vt. 屈从，听从，服从；呈送，提交；主张，建议
+novelty	n. 新奇事物； 新奇， 新奇感， 新奇性； 新颖小巧而廉价的物品
+occupy	vt. 占领； 占； 占有
+string	n. 线， 细绳； 一串， 一行
+boom	vi. 激增， 繁荣， 迅速发展； 发出隆隆声 n. 激增，繁荣，迅速发展；隆隆声，嗡嗡声
+absence	n. 缺席， 不在； 缺席的时间， 外出期； 缺乏， 不存在
+abolish	vt. 彻底废除， 废止
+attract	vt. 吸引， 引起…注意
+cautious	adj. 十分小心的， 谨慎的
+snatch	vi. 一把抓住 vt. 夺，夺走，抢走；一下子拉，一把抓住；抓住机会做，抽空做 n. 片断
+blink	vi. 眨眼睛；闪亮，闪烁 n. 眨眼睛； 一瞬间
+summit	n. 最高点， 峰顶； 最高级会议
+perfume	n. 香水，香料，香气 vt. 使充满芳香； 洒香水于
+magnify	vt. 放大， 扩大； 夸大， 夸张
+redundant	adj. 多余的， 过剩的
+situated	adj. 位于…的， 坐落在…的； 处于…境地的
+recession	n. 衰退， 衰退期
+doubtless	adv. 无疑地， 肯定地
+negative	adj. 否定的，消极的；负的，阴性的 n. 负片， 底片； 负数
+impose	vt. 把…强加； 征
+statement	n. 陈述， 声明； 结算单， 报表
+trademark	n. 商标， 牌号； 特征， 标记
+factor	n. 因素， 因子； 系数
+analogous	adj. 类似的， 相似的； 可比拟的
+substance	n. 物质； 实质； 大意， 要旨； 根据， 理由
