@@ -66,13 +66,13 @@ https://cn.dubbo.apache.org/zh-cn/overview/mannual/java-sdk/quick-start/starter/
 
 ![image-20260731224126802](https://github.com/daffodil-nian/book/blob/main/tech_notes/demo_project/images/nacos-username-pic.png)
 
-![image-20260731224405414](.\images\dubbo-res-pic.png)
+![image-20260731224405414](https://github.com/daffodil-nian/book/blob/main/tech_notes/demo_project/images/dubbo-res-pic.png)
 
 这是nacos的官方文档
 
 https://nacos.io/docs/latest/quickstart/quick-start/?spm=5238cd80.2ef5001f.0.0.3f613b7cKgZ9b0
 
-![image-20260731230408144](.\images\nacos-center.png)
+![image-20260731230408144](https://github.com/daffodil-nian/book/blob/main/tech_notes/demo_project/images/nacos-center.png)
 
 
 
