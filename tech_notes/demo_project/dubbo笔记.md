@@ -64,7 +64,7 @@ https://cn.dubbo.apache.org/zh-cn/overview/mannual/java-sdk/quick-start/starter/
 
 5. 最后，我们能看到，项目运行起来，可以跑通了
 
-![image-20260731224126802](.\images\nacos-username-pic.png)
+![image-20260731224126802](https://github.com/daffodil-nian/book/blob/main/tech_notes/demo_project/images/nacos-username-pic.png)
 
 ![image-20260731224405414](.\images\dubbo-res-pic.png)
 
